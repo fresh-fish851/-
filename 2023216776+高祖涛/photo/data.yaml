@@ -1,0 +1,6 @@
+path: C:/Users/user/Desktop/实验报告/计算机网络/photo
+train: images/train
+val: images/val
+names:
+  0: shared_bike
+  1: normal_bike

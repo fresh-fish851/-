@@ -1,0 +1,6 @@
+{
+  "train_loss": 0.012497109996072309,
+  "test_acc": 0.9906,
+  "epochs": 10,
+  "model_path": "models\\gzt_mnist_cnn.pth"
+}
